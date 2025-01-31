@@ -6,7 +6,13 @@ eyyy anormaller, siz kimsiniz ya?
 
 ![image](https://github.com/user-attachments/assets/2f3a947d-6673-4673-84dd-3d4b3001706b)
 i
-### ![image](https://github.com/user-attachments/assets/b7e7e3ed-09c9-48cc-a150-c64edc871ece)
+### ![image](https://github.com/user-attachments/assets/83f80234-b607-4b25-8a28-4826b46bafb1)
+
+
+veya
+![image](https://github.com/user-attachments/assets/048062dd-2781-4337-9d9a-04785e3b14d3)
+
+
 
 ![image](https://github.com/user-attachments/assets/7cd9e3a2-f682-443a-852a-77c1e61c3925)
 
