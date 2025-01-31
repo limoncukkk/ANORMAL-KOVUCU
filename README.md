@@ -1,0 +1,2 @@
+# normy
+anormal kovucu
