@@ -1,6 +1,9 @@
 # NORMAL SÖZLÜK ANORMAL KOVUCU
 eyyy anormaller, siz kimsiniz ya?
 
+
+bi klasör aç indirdiğin herşeyi içine at
+
 ![image](https://github.com/user-attachments/assets/15e64417-e0d5-4023-a987-10a39b054252)
 
 
