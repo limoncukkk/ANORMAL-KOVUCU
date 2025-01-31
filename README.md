@@ -9,10 +9,6 @@ bi klasör aç indirdiğin herşeyi içine at
 böyle indirin canlarım. korkmayın virüs olur mu hiç. babana bile güvenmiycen gerçi şu siteye atıp tarayın bi: https://www.virustotal.com/gui/
 ![image](https://github.com/user-attachments/assets/2d14853a-970a-4767-9d24-beddf208c68b)
 
-
-
-
-![image](https://github.com/user-attachments/assets/2f3a947d-6673-4673-84dd-3d4b3001706b)
 i
 ### ![image](https://github.com/user-attachments/assets/83f80234-b607-4b25-8a28-4826b46bafb1)
 
