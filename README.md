@@ -5,7 +5,7 @@ eyyy anormaller, siz kimsiniz ya?
 
 
 ![image](https://github.com/user-attachments/assets/2f3a947d-6673-4673-84dd-3d4b3001706b)
-
+i
 ### ![image](https://github.com/user-attachments/assets/b7e7e3ed-09c9-48cc-a150-c64edc871ece)
 
 ![image](https://github.com/user-attachments/assets/7cd9e3a2-f682-443a-852a-77c1e61c3925)
