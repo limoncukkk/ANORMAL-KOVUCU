@@ -6,6 +6,10 @@ bi klasör aç indirdiğin herşeyi içine at
 
 ![image](https://github.com/user-attachments/assets/15e64417-e0d5-4023-a987-10a39b054252)
 
+tıkla tek tek indir işte sağda raw download falan yazıyor
+![image](https://github.com/user-attachments/assets/8ac7f219-8901-4efc-9b73-2db0ff7f3bc6)
+
+
 
 ![image](https://github.com/user-attachments/assets/2f3a947d-6673-4673-84dd-3d4b3001706b)
 i
