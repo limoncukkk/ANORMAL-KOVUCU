@@ -1,0 +1,19 @@
+﻿{
+  "manifest_version": 3,
+  "name": "Yazar Engelleyici",
+  "version": "1.0",
+  "description": "Belirli yazarları Normalsozluk'tan engeller",
+  "permissions": ["activeTab", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://normalsozluk.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

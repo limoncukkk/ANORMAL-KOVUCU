@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Yazar Engelleyici</title>
+    <style>
+        body {
+            width: 250px;
+            height: 300px;
+            padding: 10px;
+        }
+        input[type="text"] {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 5px;
+        }
+        button {
+            width: 100%;
+            padding: 5px;
+            margin-top: 5px;
+        }
+        .engellenen-list {
+            margin-top: 10px;
+            max-height: 150px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <h3>Engellenen Yazarlar</h3>
+    <input type="text" id="yazarInput" placeholder="Yazar URL'sini girin" />
+    <button id="ekleBtn">Yazar Ekle</button>
+    
+    <div class="engellenen-list" id="engellenenList">
+        <!-- Engellenen yazarlar buraya eklenecek -->
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
